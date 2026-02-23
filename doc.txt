@@ -1,0 +1,16 @@
+PROJECT TITLE: Simple Online Marketplace
+
+This project is a frontend-only online marketplace built using HTML, CSS,
+and JavaScript. The design is simple and responsive to support both mobile
+and desktop users.
+
+The homepage displays sample products using cards, while the products page
+includes a JavaScript search filter. A user registration form was added with
+basic validation to ensure required fields are filled.
+
+Privacy and ethics were considered by including a privacy notice that
+references Kenya’s Data Protection Act (2019). No sensitive data is stored,
+and cookies are used only to identify basic user interaction.
+
+The system follows ethical ICT practices as guided by the Computer Misuse
+and Cybercrimes Act (2018) and the National ICT Policy (2019).
